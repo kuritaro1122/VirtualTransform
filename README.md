@@ -1,0 +1,2 @@
+# VirtualTransform
+仮想的にTransformを作成する。静的なVector３も動的なTransformも同様に扱うことができる。
